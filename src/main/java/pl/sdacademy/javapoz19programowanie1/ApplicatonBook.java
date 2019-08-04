@@ -1,5 +1,8 @@
 package pl.sdacademy.javapoz19programowanie1;
 
+import pl.sdacademy.javapoz19programowanie1.books.Author;
+import pl.sdacademy.javapoz19programowanie1.books.Book;
+
 import java.util.Arrays;
 import java.util.List;
 
